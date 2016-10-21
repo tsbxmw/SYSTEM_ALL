@@ -1,0 +1,14 @@
+D:\workspace\new_config_all-master\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+D:\workspace\new_config_all-master\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+D:\workspace\new_config_all-master\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+D:\workspace\new_config_all-master\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\workspace\new_config_all-master\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+D:\workspace\new_config_all-master\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+D:\workspace\new_config_all-master\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\workspace\new_config_all-master\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+D:\workspace\new_config_all-master\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+D:\workspace\new_config_all-master\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.manifest
+D:\workspace\new_config_all-master\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.application
+D:\workspace\new_config_all-master\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.TrustInfo.xml
+D:\workspace\new_config_all-master\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe.manifest
+D:\workspace\new_config_all-master\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.application

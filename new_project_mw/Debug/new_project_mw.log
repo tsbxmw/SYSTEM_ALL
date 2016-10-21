@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  function.cpp
+  config_ftp_nomail.cpp
+d:\data\vs2010\new_project_mw\new_project_mw\config_ftp_nomail.cpp(30): warning C4101: “command”: 未引用的局部变量
+  config_ftp_mail.cpp
+d:\data\vs2010\new_project_mw\new_project_mw\config_ftp_mail.cpp(28): warning C4101: “command”: 未引用的局部变量
+  正在生成代码...
+  new_project_mw.vcxproj -> D:\DATA\VS2010\new_project_mw\Debug\new_project_mw.exe

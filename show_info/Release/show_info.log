@@ -1,0 +1,24 @@
+﻿生成启动时间为 2016/03/10 15:41:38。
+     1>项目“D:\workspace\new_config_all-master\show_info\show_info.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2012\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MTd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt show.cpp
+         show.cpp
+     1>show.cpp(44): warning C4018: “<”: 有符号/无符号不匹配
+     1>show.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+     1>show.cpp(60): warning C4018: “<”: 有符号/无符号不匹配
+     1>show.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+     1>show.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+     1>show.cpp(104): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\VS2012\VC\include\string.h(200) : 参见“strtok”的声明
+     1>show.cpp(107): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\VS2012\VC\include\string.h(200) : 参见“strtok”的声明
+       Link:
+         D:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\workspace\new_config_all-master\Release\show_info.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\workspace\new_config_all-master\Release\show_info.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\workspace\new_config_all-master\Release\show_info.lib" /MACHINE:X86 /SAFESEH Release\show.obj
+         正在生成代码
+         已完成代码的生成
+         show_info.vcxproj -> D:\workspace\new_config_all-master\Release\show_info.exe
+     1>已完成生成项目“D:\workspace\new_config_all-master\show_info\show_info.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.40

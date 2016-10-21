@@ -1,0 +1,74 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>SDET Test Report </title>
+<link rel="stylesheet" type="text/css" title="Style" href="stylesheet.css">
+</head>
+<body>
+<h1>SDET Test Report For </h1><h1>VFD 600 VFD-600</h1>
+<br>
+<table class="general" border="0" cellpadding="5" cellspacing="2" width="95%">
+<tr ><th colspan=4>Device Information</th></tr>
+<tr><td width="10%"><h6>BOARD</h6></td><td width="40%">msm8909</td><td width="10%"><h6>BRAND</h6></td><td width="40%">Vodafone</td></tr>
+<tr><td width="10%"><h6>CPU_ABI</h6></td><td width="40%">armeabi-v7a</td><td width="10%"><h6>DEVICE</h6></td><td width="40%">P809V50</td></tr>
+<tr><td width="10%"><h6>FINGERPRINT</h6></td><td width="40%">Vodafone/VFD-600/P809V50:6.0.1/MMB29M/20160114.021943:user/test-keys</td><td width="10%"><h6>MODEL</h6></td><td width="40%">VFD 600</td></tr>
+<tr><td width="10%"><h6>PRODUCT</h6></td><td width="40%">VFD-600</td><td width="10%"><h6>TYPE</h6></td><td width="40%">user</td></tr>
+<tr><td width="10%"><h6>BUILD_TIME</h6></td><td width="40%">2016/01/13 20:23:01</td><td width="10%"><h6>BUILD_NUMBER</h6></td><td width="40%">VDF-VFD600B01-ATPA test-keys</td></tr>
+<tr><td width="10%"><h6>VERSION.CODENAME</h6></td><td width="40%">REL</td><td width="10%"><h6>VERSION.RELEASE</h6></td><td width="40%">6.0.1</td></tr>
+<tr><td width="10%"><h6>VERSION.SDK</h6></td><td width="40%">23</td><td width="10%"><h6>VERSION.SDK_INT</h6></td><td width="40%">23</td></tr>
+</table>
+<br><br>
+
+<h1>SDET AppMonkeyTest Results</h1>
+<br>
+<table class="general" border="0" cellpadding="5" cellspacing="2" width="95%">
+<tr><th width="40%">Test Type</th><th>Passed</th><th>failed</th><th>exception</th><th>total</th><th>time</th></tr>
+<tr><td>MonkeyTest</td><td>29</td><td>2</td><td>1</td><td>32</td><td>119 min </td></tr>
+</table>
+<br><br>
+<h1>Fail and Exception Detail Info</h1>
+<br>
+<table class="general" border="0" cellpadding="5" cellspacing="2" width="95%">
+<tr><th width="20%">question package</th><th width="20%">question</th><th>strategy package</th><th>crash&anr</th><th>exception</th></tr>
+<tr><td>com.google.android.talk</td><td>ANR:2016-01-14 07:41:19.719 </td><td>com.google.android.talk</td><td>1</td><td>0</td></tr>
+<tr><td>com.google.android.talk</td><td>ANR:2016-01-14 07:44:36.624 </td><td>com.google.android.talk</td><td>2</td><td>0</td></tr>
+<tr><td>com.google.android.talk</td><td>ANR:2016-01-14 07:46:20.933 </td><td>com.google.android.talk</td><td>3</td><td>0</td></tr>
+<tr><td>com.google.android.talk</td><td>ANR:2016-01-14 07:55:01.521 </td><td>com.zte.simplelauncher</td><td>4</td><td>0</td></tr>
+<tr><td>com.google.process.gapps</td><td>ANR:2016-01-14 07:41:57.797 </td><td>com.google.android.talk</td><td>5</td><td>0</td></tr>
+<tr><td>com.android.gm</td><td>0</td><td>0</td><td>0</td><td>1</td></tr>
+</table>
+<br><br>
+
+<h1>Success Detail Info</h1>
+<br>
+<table class="general" border="0" cellpadding="5" cellspacing="2" width="95%">
+<tr><th width="50%">Test APK Name</th><th>Passed</th><th>failed</th><th>exception</th></tr>
+<tr><td>cn.zte.recorder</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.android.calculator2</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.android.chrome</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.android.contacts</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.android.deskclock</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.android.dialer</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.android.email</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.android.gallery3d</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.android.launcher3</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.android.mms</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.android.providers.downloads.ui</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.android.settings</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.android.vending</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.google.android.apps.docs</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.google.android.apps.genie.geniewidget</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.google.android.apps.maps</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.google.android.apps.photos</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.google.android.apps.translate</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.google.android.calendar</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.google.android.googlequicksearchbox</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.google.android.keep</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.google.android.music</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.google.android.videos</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.google.android.youtube</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.quicinc.fmradio</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.twitter.android</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.zte.camera</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>com.zte.videoplayer</td><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>zte.com.cn.filer</td><td>1</td><td>0</td><td>0</td></tr>
