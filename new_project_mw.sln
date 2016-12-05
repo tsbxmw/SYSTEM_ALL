@@ -24,8 +24,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "config_client", "config_cli
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "client_update", "client_update\client_update.vcxproj", "{FA016DE9-8649-40C2-85C4-451DA9795BCA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "config_mysql", "config_mysql\config_mysql.vcxproj", "{EE92FFF9-38D9-4D89-8AA5-5EC5EC081822}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "config_server_mysql", "config_server_mysql\config_server_mysql.vcxproj", "{0A8E7644-BB81-4D5F-93D5-50883395CB20}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mysql_lib", "mysql_lib\mysql_lib.vcxproj", "{2D3D980A-8DB0-4205-9989-F0CA61117CDC}"
@@ -124,14 +122,6 @@ Global
 		{FA016DE9-8649-40C2-85C4-451DA9795BCA}.Release|Win32.Build.0 = Release|Win32
 		{FA016DE9-8649-40C2-85C4-451DA9795BCA}.Release|x64.ActiveCfg = Release|Win32
 		{FA016DE9-8649-40C2-85C4-451DA9795BCA}.Release|x64.Build.0 = Release|Win32
-		{EE92FFF9-38D9-4D89-8AA5-5EC5EC081822}.Debug|Win32.ActiveCfg = Debug|Win32
-		{EE92FFF9-38D9-4D89-8AA5-5EC5EC081822}.Debug|Win32.Build.0 = Debug|Win32
-		{EE92FFF9-38D9-4D89-8AA5-5EC5EC081822}.Debug|x64.ActiveCfg = Debug|Win32
-		{EE92FFF9-38D9-4D89-8AA5-5EC5EC081822}.Debug|x64.Build.0 = Debug|Win32
-		{EE92FFF9-38D9-4D89-8AA5-5EC5EC081822}.Release|Win32.ActiveCfg = Release|Win32
-		{EE92FFF9-38D9-4D89-8AA5-5EC5EC081822}.Release|Win32.Build.0 = Release|Win32
-		{EE92FFF9-38D9-4D89-8AA5-5EC5EC081822}.Release|x64.ActiveCfg = Release|Win32
-		{EE92FFF9-38D9-4D89-8AA5-5EC5EC081822}.Release|x64.Build.0 = Release|Win32
 		{0A8E7644-BB81-4D5F-93D5-50883395CB20}.Debug|Win32.ActiveCfg = Debug|Win32
 		{0A8E7644-BB81-4D5F-93D5-50883395CB20}.Debug|Win32.Build.0 = Debug|Win32
 		{0A8E7644-BB81-4D5F-93D5-50883395CB20}.Debug|x64.ActiveCfg = Debug|Win32
