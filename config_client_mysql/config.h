@@ -42,20 +42,28 @@ char * removepath(char x[10000],int length);
 //see the resources.
 
 void make_new_info(string loaclfile[100]);
+//add new info 
 
 bool read_server_status(string localfile[100]);
-
+// read the server status from mysql
 
 void upload_status_toserver();
+//upload local status to the mysql
 
 void get_pc_status_from_server(string localfile[100]);
+//get the status from the mysql
 
 void set_server_status_null(string localfile[100]);
+//set the local pc is free to the mysql
+
 
 void del_pc_status_on_server(string localfile[100]);
+// delete the pc status on the mysql
 
 void mkdir_project_onserver(string localfile[100],MYSQL *mysql);
+//make a dir of the project on the server
 
 string getconfigname(char local_internal[1000]);
+//get local config of the configini
 
 void  mysql_test(MYSQL *mysql);
