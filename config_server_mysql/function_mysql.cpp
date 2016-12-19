@@ -69,6 +69,9 @@ int check_db(MYSQL *mysql,char *db_name)
 	return 0;
 }
 
+
+//find db
+
 int find_db(MYSQL *mysql,char * db_name)
 {
 	MYSQL_ROW row = NULL;
@@ -101,6 +104,9 @@ int find_db(MYSQL *mysql,char * db_name)
 	else
 		return 1;
 }
+
+//select db to use
+
 int select_db(MYSQL *mysql,char * db_name)
 {
 	if(!mysql_select_db(mysql,db_name))
@@ -108,6 +114,9 @@ int select_db(MYSQL *mysql,char * db_name)
 	else
 		return 0;
 }
+
+//find table to use
+
 int find_table(MYSQL *mysql,char * table_name)
 {
 	MYSQL_ROW row = NULL;
@@ -137,6 +146,8 @@ int find_table(MYSQL *mysql,char * table_name)
 	else
 		return 1;
 }
+
+// read the table
 
 int read_table(MYSQL *mysql,char *table_name)
 {
@@ -176,6 +187,8 @@ int read_table(MYSQL *mysql,char *table_name)
 	}
 	return 0;
 }
+
+// find one table
 
 int  find_one_tab(MYSQL *mysql,string table,string line_name)
 {
@@ -225,7 +238,11 @@ int  find_one_tab(MYSQL *mysql,string table,string line_name)
 	}
 	return num;
 }
+
+
+//add where to from and table
 //....................................................................................................................
+
 int  find_one_tab_form_where(MYSQL *mysql,string table,string line_name,string from,string f_where)
 {
 	int res;
@@ -279,7 +296,7 @@ int  find_one_tab_form_where(MYSQL *mysql,string table,string line_name,string f
 
 
 
-
+// find the ip and pro line
 
 //....................................................................................................
 
