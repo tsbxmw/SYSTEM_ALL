@@ -7,3 +7,13 @@ D:\workspace\new_config_all-master\WindowsFormsApplication1\obj\Release\WindowsF
 D:\workspace\new_config_all-master\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
 D:\workspace\new_config_all-master\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
 D:\workspace\new_config_all-master\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\workspace\new_config_all-master\WindowsFormsApplication1\bin\Release\MySql.Data.dll
+D:\workspace\new_config_all-master\WindowsFormsApplication1\bin\Release\MySql.Data.Entity.dll
+D:\workspace\new_config_all-master\WindowsFormsApplication1\bin\Release\MySql.Data.Entity.EF6.dll
+D:\workspace\new_config_all-master\WindowsFormsApplication1\bin\Release\MySql.Web.dll
+D:\workspace\new_config_all-master\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.manifest
+D:\workspace\new_config_all-master\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.application
+D:\workspace\new_config_all-master\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe.manifest
+D:\workspace\new_config_all-master\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.application
+D:\workspace\new_config_all-master\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.CodeAnalysisLog.xml
+D:\workspace\new_config_all-master\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.lastcodeanalysissucceeded
